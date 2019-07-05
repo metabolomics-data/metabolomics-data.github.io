@@ -27,7 +27,7 @@ github_username:  metabolomics-data
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-architect
+theme: jekyll-theme-dinky
 plugins:
   - jekyll-feed
 

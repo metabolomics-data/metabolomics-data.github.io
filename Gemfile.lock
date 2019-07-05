@@ -244,7 +244,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.6)
-  jekyll-theme-architect
+  jekyll-theme-dinky
   tzinfo-data
 
 BUNDLED WITH

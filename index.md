@@ -2,17 +2,14 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: default
 ---
 
-**Publisher**: Springer Nature
+*   [Link to the example data in the book (click here)](./data)
+*   [Link to code and notebooks (click here)](./code)
 
-**Series**: Methods in Molecular Biology
 
-**Title: Computational Methods and Data Analysis for Metabolomics**
-
-List of Chapters
-
+# List of Chapters
 
 ## 1.    Overview of experimental methods and study design in metabolomics, and statistical considerations
 
