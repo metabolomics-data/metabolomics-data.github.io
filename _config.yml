@@ -16,8 +16,8 @@
 title: Computational Methods and Data Analysis for Metabolomics
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the supplemental site for the Springer Nature book.
-  Data and code are linked here, and continuously updated.
+  Supplemental site for the Springer Nature book.
+  
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://metabolomics-data.github.io"
