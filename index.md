@@ -76,8 +76,7 @@ USA
 ***
 
 
-## 8.  Overview of Tandem Mass Spectral and Metabolite Databases for
-Metabolite Identification in Metabolomics
+## 8.  Overview of Tandem Mass Spectral and Metabolite Databases for Metabolite Identification in Metabolomics
 
 Zhangtao Yi and Zheng-Jiang Zhu
 
@@ -123,8 +122,7 @@ Strasbourg, France
 69120 Heidelberg, Germany
 
 [Link to software MetNet](https://bioconductor.org/packages/release/bioc/html/MetNet.html)
-
-[Link to software MetCir](https://bioconductor.org/packages/release/bioc/html/MetCirc.html)
+[MetCir](https://bioconductor.org/packages/release/bioc/html/MetCirc.html)
 
 
 ## 13. Feature Based Molecular Networking for Metabolite Annotation
@@ -148,6 +146,9 @@ W Stephen Pittard, Cecilia Villaveces, Shuzhao Li
 1 Department of Biostatistics and Bioinformatics,
 2 Department of Medicine, Emory University, Atlanta, Georgia, USA. GA 30322.
 
+[Link to notebooks](https://github.com/metabolomics-data/Springer)
+
+
 ## 15.  The essential tool set for data science: Python, R, Git and Docker
 
 W. Stephen Pittard 1 and Shuzhao Li 2,*
@@ -162,6 +163,8 @@ Tusharkanti Ghosh, Weiming Zhang, Debashis Ghosh and Katerina Kechris
 
 Department of Biostatistics &amp; Informatics, Colorado School of Public Health, University of
 Colorado Anschutz Medical Campus, Aurora, Colorado, United States of America
+
+[Link to notebooks](https://github.com/metabolomics-data/Springer/blob/master/Chapter16_predictive_modeling_tg.Rmd)
 
 
 ## 17.  Using MetaboAnalyst 4.0 for metabolomics data analysis, interpretation and integration with other omics data
@@ -184,6 +187,8 @@ Michael Witting [3][4]
 [3] Helmholtz Zentrum München, Research Unit Analytical BioGeoChemistry, Ingolstädter Landstraße 1, 85764 Neuherberg, Germany
 [4] Technical University of Munich, Chair of Analytical Food Chemistry, Maximus-von-Imhof-Forum 2, 85354 Freising, Germany
 
+[Link to repository](https://github.com/michaelwitting/MiMB_CompMetabo)
+
 
 ## 19.  Pathway analysis for targeted and untargeted metabolomics
 
@@ -191,6 +196,11 @@ Alla Karnovsky 1 and Shuzhao Li 2
 
 1 Department of Computational Medicine &amp; Bioinformatics, University of Michigan, Ann Arbor, Michigan, USA. MI 48109.
 2 Department of Medicine, Emory University School of Medicine, Atlanta, Georgia, USA. GA 30322.
+
+[Link to software MetScape](http://metscape.med.umich.edu/)
+[Mummichog](http://mummichog.org)
+
+
 
 ***
 
